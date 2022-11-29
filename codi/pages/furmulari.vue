@@ -1,7 +1,7 @@
 <template>
     <div>
-        <Calculadora>
+        <Furmulari>
             
-        </Calculadora>
+        </Furmulari>
     </div>
 </template>
